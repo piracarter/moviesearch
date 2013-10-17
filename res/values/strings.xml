@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">moviesearch</string>
+    
+    <string name="label_tweet_search_loader">Descargando tweets&#8230;</string>
+    <string name="label_tweets_not_found">No se encontraron tweets.</string>
+    <string name="label_tweets_downloaded">Tweets descargados exitosamente.</string>
+	<string name="Title">Title</string>
+	<string name="year">Year</string>
+	<string name="mpaa_rating">mpaa_rating</string>
+	<string name="runtime">runtime</string>
+	<string name="action_fav">Favorite</string>
+	<string name="action_share">Share</string>
+	<string name="Search">Search</string>
+	<string name="test">Testing</string>
+	<string-array name="array_drawer_options">
+	    <item >Habitaciones</item>
+	    <item >Términos y condiciones</item>	    
+    </string-array>
+        <string name="drawer_open">Abrir</string>
+    <string name="drawer_close">Cerrar</string>
+</resources>
